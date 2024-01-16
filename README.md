@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning React, TypeScript and Next.js. <br>👨‍💻 All of my projects are available at sinemtasbasi.com/<br>📫 How to reach me sinem@sinemtasbasi.com</p>
+<p align="left">📚 I'm currently learning React, TypeScript and Next.js. <br>👨‍💻 All of my projects are available at sinemtasbasi.com.<br>📫 How to reach me: sinem@sinemtasbasi.com.</p>
 
 ###
 
