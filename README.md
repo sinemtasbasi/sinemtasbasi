@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 I've been professionally programming for ~8 years now. I specialize in logistic management and operation management. <br> These days I'm mainly working with TypeScript and Rust. When I build web applications I also use React, Next.js, and Tailwind CSS. <br>👨‍💻 All of my projects are available at sinemtasbasi.com.<br>📫 How to reach me: sinem@sinemtasbasi.com.</p>
+<p align="left">📚 I've been professionally programming for ~8 years now. <br> I specialize in logistic management and operation management. <br> These days I'm mainly working with TypeScript and Rust. <br> When I build web applications I also use React, Next.js, and Tailwind CSS. <br>👨‍💻 All of my projects are available at sinemtasbasi.com.<br>📫 How to reach me: sinem@sinemtasbasi.com.</p>
 
 ###
 
